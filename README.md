@@ -28,7 +28,7 @@ Why Go?
 |---|---|---|
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | https://github.com/manab-pr/dsa-golang/blob/main/Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-2.go|
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | https://github.com/manab-pr/dsa-golang/blob/main/Data%20Structures%20%26%20Algorithms/is-anagram/submission-2.go |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | https://github.com/manab-pr/dsa-golang/blob/main/Data%20Structures%20%26%20Algorithms/two-integer-sum/submission-2.go |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | |
